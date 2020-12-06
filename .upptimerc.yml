@@ -4,8 +4,6 @@ repo: uptime-monitor # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: ERP-1
     url: https://erp.berlianmas.com    
   - name: Portal-1
