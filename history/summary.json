@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 89,
-    "timeDay": 86,
-    "timeWeek": 117,
+    "timeDay": 87,
+    "timeWeek": 116,
     "timeMonth": 91,
     "timeYear": 89
   },
@@ -27,11 +27,28 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1200,
-    "timeDay": 1200,
-    "timeWeek": 1200,
-    "timeMonth": 1200,
-    "timeYear": 1200
+    "time": 1187,
+    "timeDay": 1187,
+    "timeWeek": 1187,
+    "timeMonth": 1187,
+    "timeYear": 1187
+  },
+  {
+    "name": "Portal-1",
+    "url": "https://berlianmas.com",
+    "icon": "https://favicons.githubusercontent.com/berlianmas.com",
+    "slug": "portal-1",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1153,
+    "timeDay": 1153,
+    "timeWeek": 1153,
+    "timeMonth": 1153,
+    "timeYear": 1153
   },
   {
     "name": "ERP-Show",
@@ -44,11 +61,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1264,
-    "timeDay": 1264,
-    "timeWeek": 1264,
-    "timeMonth": 1264,
-    "timeYear": 1264
+    "time": 1227,
+    "timeDay": 1227,
+    "timeWeek": 1227,
+    "timeMonth": 1227,
+    "timeYear": 1227
   },
   {
     "name": "ERP-APL",
@@ -61,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1315,
-    "timeDay": 1315,
-    "timeWeek": 1315,
-    "timeMonth": 1315,
-    "timeYear": 1315
+    "time": 1197,
+    "timeDay": 1197,
+    "timeWeek": 1197,
+    "timeMonth": 1197,
+    "timeYear": 1197
   },
   {
     "name": "Drive Simatek",
@@ -78,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1222,
-    "timeDay": 1222,
-    "timeWeek": 1222,
-    "timeMonth": 1222,
-    "timeYear": 1222
+    "time": 1243,
+    "timeDay": 1243,
+    "timeWeek": 1243,
+    "timeMonth": 1243,
+    "timeYear": 1243
   },
   {
     "name": "Photography",
@@ -95,10 +112,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 907,
-    "timeDay": 907,
-    "timeWeek": 907,
-    "timeMonth": 907,
-    "timeYear": 907
+    "time": 1232,
+    "timeDay": 1232,
+    "timeWeek": 1232,
+    "timeMonth": 1232,
+    "timeYear": 1232
   }
 ]
