@@ -11,7 +11,7 @@ sites:
   - name: ERP-1
     url: https://erp.berlianmas.com    
   - name: ERP-Show
-    url: https://erp.berlianmas.com
+    url: https://show-dis.berlianmas.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
