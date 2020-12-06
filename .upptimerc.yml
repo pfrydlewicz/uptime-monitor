@@ -6,12 +6,12 @@ repo: uptime-monitor # Your Github repository name
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
   - name: ERP-1
     url: https://erp.berlianmas.com    
   - name: ERP-Show
     url: https://show-dis.berlianmas.com
+  - name: Drive Simatek
+    url: https://cloud.berlianmas.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
