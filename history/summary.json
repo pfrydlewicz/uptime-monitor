@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 89,
-    "timeDay": 81,
-    "timeWeek": 118,
+    "timeDay": 86,
+    "timeWeek": 117,
     "timeMonth": 91,
     "timeYear": 89
   },
@@ -27,11 +27,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1047,
-    "timeDay": 1047,
-    "timeWeek": 1047,
-    "timeMonth": 1047,
-    "timeYear": 1047
+    "time": 1200,
+    "timeDay": 1200,
+    "timeWeek": 1200,
+    "timeMonth": 1200,
+    "timeYear": 1200
   },
   {
     "name": "ERP-Show",
@@ -44,11 +44,28 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1306,
-    "timeDay": 1306,
-    "timeWeek": 1306,
-    "timeMonth": 1306,
-    "timeYear": 1306
+    "time": 1264,
+    "timeDay": 1264,
+    "timeWeek": 1264,
+    "timeMonth": 1264,
+    "timeYear": 1264
+  },
+  {
+    "name": "ERP-APL",
+    "url": "https://erp2.berlianmas.com",
+    "icon": "https://favicons.githubusercontent.com/erp2.berlianmas.com",
+    "slug": "erp-apl",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1315,
+    "timeDay": 1315,
+    "timeWeek": 1315,
+    "timeMonth": 1315,
+    "timeYear": 1315
   },
   {
     "name": "Drive Simatek",
@@ -61,10 +78,27 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1247,
-    "timeDay": 1247,
-    "timeWeek": 1247,
-    "timeMonth": 1247,
-    "timeYear": 1247
+    "time": 1222,
+    "timeDay": 1222,
+    "timeWeek": 1222,
+    "timeMonth": 1222,
+    "timeYear": 1222
+  },
+  {
+    "name": "Photography",
+    "url": "https://photography.frydlewicz.de",
+    "icon": "https://favicons.githubusercontent.com/photography.frydlewicz.de",
+    "slug": "photography",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 907,
+    "timeDay": 907,
+    "timeWeek": 907,
+    "timeMonth": 907,
+    "timeYear": 907
   }
 ]
