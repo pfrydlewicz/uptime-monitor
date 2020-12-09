@@ -94,9 +94,9 @@
     "url": "https://photography.frydlewicz.de",
     "icon": "https://favicons.githubusercontent.com/photography.frydlewicz.de",
     "slug": "photography",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +105,8 @@
     "timeWeek": 1084,
     "timeMonth": 1084,
     "timeYear": 1084,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-09": 0
+    }
   }
 ]
