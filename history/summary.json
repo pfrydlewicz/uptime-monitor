@@ -22,18 +22,20 @@
     "url": "https://berlianmas.com",
     "icon": "https://favicons.githubusercontent.com/berlianmas.com",
     "slug": "portal-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1056,
-    "timeDay": 1085,
-    "timeWeek": 1056,
-    "timeMonth": 1056,
-    "timeYear": 1056,
-    "dailyMinutesDown": {}
+    "time": 1048,
+    "timeDay": 1037,
+    "timeWeek": 1048,
+    "timeMonth": 1048,
+    "timeYear": 1048,
+    "dailyMinutesDown": {
+      "2020-12-11": 0
+    }
   },
   {
     "name": "ERP-Show",
@@ -101,7 +103,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1029,
-    "timeDay": 947,
+    "timeDay": 893,
     "timeWeek": 1029,
     "timeMonth": 1029,
     "timeYear": 1029,
