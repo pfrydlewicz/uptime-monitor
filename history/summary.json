@@ -4,18 +4,20 @@
     "url": "https://erp.berlianmas.com",
     "icon": "https://favicons.githubusercontent.com/erp.berlianmas.com",
     "slug": "erp-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1156,
     "timeDay": 1290,
     "timeWeek": 1182,
     "timeMonth": 1156,
     "timeYear": 1156,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-16": 2
+    }
   },
   {
     "name": "Portal-1",
@@ -23,11 +25,11 @@
     "icon": "https://favicons.githubusercontent.com/berlianmas.com",
     "slug": "portal-1",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptimeMonth": "99.70%",
+    "uptimeYear": "99.70%",
     "time": 1039,
     "timeDay": 1340,
     "timeWeek": 1028,
@@ -60,9 +62,9 @@
     "url": "https://erp2.berlianmas.com",
     "icon": "https://favicons.githubusercontent.com/erp2.berlianmas.com",
     "slug": "erp-apl",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -71,7 +73,9 @@
     "timeWeek": 992,
     "timeMonth": 1016,
     "timeYear": 1016,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-16": 0
+    }
   },
   {
     "name": "Drive Simatek",
@@ -104,7 +108,7 @@
     "uptimeYear": "100.00%",
     "time": 1000,
     "timeDay": 730,
-    "timeWeek": 944,
+    "timeWeek": 956,
     "timeMonth": 1000,
     "timeYear": 1000,
     "dailyMinutesDown": {}
