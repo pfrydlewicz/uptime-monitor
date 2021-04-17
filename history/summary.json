@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1224,
     "dailyMinutesDown": {
-      "2021-04-17": 1183,
+      "2021-04-17": 1189,
       "2021-04-16": 1440,
       "2021-04-15": 1440,
       "2021-04-14": 1440,
@@ -116,7 +116,7 @@
     "timeMonth": 0,
     "timeYear": 1156,
     "dailyMinutesDown": {
-      "2021-04-17": 1183,
+      "2021-04-17": 1189,
       "2021-04-16": 1440,
       "2021-04-15": 1440,
       "2021-04-14": 1440,
@@ -196,7 +196,7 @@
     "timeMonth": 0,
     "timeYear": 1157,
     "dailyMinutesDown": {
-      "2021-04-17": 1183,
+      "2021-04-17": 1189,
       "2021-04-16": 1440,
       "2021-04-15": 1440,
       "2021-04-14": 1440,
@@ -326,7 +326,7 @@
     "url": "https://photography.frydlewicz.de",
     "icon": "https://favicons.githubusercontent.com/photography.frydlewicz.de",
     "slug": "photography",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
